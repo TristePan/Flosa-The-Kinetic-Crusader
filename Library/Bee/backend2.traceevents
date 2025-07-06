@@ -1,0 +1,278 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1733847742797790, "dur":17189, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733847742814991, "dur":74, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733847742815096, "dur":480, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733847742815804, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1733847742815950, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1733847742816367, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1733847742816635, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1733847742817176, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1733847742817668, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1733847742817771, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1733847742817855, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1733847742818042, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1733847742818141, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1733847742818312, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1733847742819514, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1733847742815607, "dur":3958, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733847742819566, "dur":248587, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733847743068154, "dur":192, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733847743068349, "dur":255, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733847743068801, "dur":9918, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1733847742816106, "dur":3569, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1733847742819686, "dur":1380, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1733847742821067, "dur":5460, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1733847742826546, "dur":275, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1733847742826538, "dur":284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1733847742834774, "dur":2758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1733847742837603, "dur":151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1733847742837601, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1733847742837780, "dur":3950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1733847742846810, "dur":5792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733847742852722, "dur":56, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1733847742852799, "dur":8973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733847742861877, "dur":9847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733847742872122, "dur":9544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733847742881743, "dur":5141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733847742886961, "dur":9934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733847742896974, "dur":6804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733847742903852, "dur":10219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733847742914236, "dur":5928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733847742920263, "dur":6752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1733847742927562, "dur":451, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1733847742928329, "dur":18047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1733847742956556, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1733847742946591, "dur":10064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1733847742956910, "dur":111209, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733847742816208, "dur":3487, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733847742819705, "dur":1191, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733847742820897, "dur":5640, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733847742826547, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1733847742826537, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1733847742831071, "dur":4053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1733847742835186, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1733847742836435, "dur":1984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1733847742838480, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1733847742838631, "dur":3363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1733847742849112, "dur":10891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733847742860108, "dur":4733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733847742864967, "dur":10188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733847742875211, "dur":8655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733847742883963, "dur":8326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733847742892392, "dur":9373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733847742901857, "dur":9683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733847742911641, "dur":6776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733847742918497, "dur":6375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1733847742935400, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733847742924984, "dur":10597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1733847742955943, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1733847742935804, "dur":20256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1733847742956167, "dur":111960, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733847742815976, "dur":3664, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733847742819650, "dur":1337, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733847742820988, "dur":5520, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733847742826527, "dur":175, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1733847742833061, "dur":3237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1733847742836301, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1733847742836581, "dur":3644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1733847742847250, "dur":14371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733847742861716, "dur":11331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733847742873128, "dur":8567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733847742881764, "dur":5434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733847742887407, "dur":11763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733847742899256, "dur":6109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733847742905479, "dur":10244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733847742915818, "dur":5603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733847742921517, "dur":5660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1733847742929410, "dur":6467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1733847742936026, "dur":17826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1733847742953981, "dur":114160, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733847742816520, "dur":3274, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733847742819806, "dur":885, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733847742820691, "dur":5820, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1733847742826535, "dur":164, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1733847742826519, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1733847742830692, "dur":4174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1733847742834953, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1733847742834952, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1733847742835545, "dur":4319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1733847742839926, "dur":876, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":4, "ts":1733847742839925, "dur":879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader.exe" }}
+,{ "pid":12345, "tid":4, "ts":1733847742840825, "dur":9535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader.exe" }}
+,{ "pid":12345, "tid":4, "ts":1733847742850743, "dur":8584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733847742859489, "dur":5364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733847742864965, "dur":9635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733847742874727, "dur":8424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733847742883251, "dur":5955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733847742889299, "dur":10275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733847742899674, "dur":8651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733847742908400, "dur":9191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733847742917741, "dur":5457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1733847742923252, "dur":2414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":4, "ts":1733847742925774, "dur":10118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1733847742936049, "dur":16885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1733847742953061, "dur":115078, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1733847742816088, "dur":3570, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1733847742819667, "dur":1375, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1733847742821042, "dur":5493, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1733847742826536, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1733847742835615, "dur":3365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1733847742839066, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1733847742848710, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1733847742841428, "dur":7389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1733847742860772, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1733847742850385, "dur":10462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1733847742861037, "dur":11381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1733847742872549, "dur":8659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1733847742881283, "dur":5272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1733847742886647, "dur":10148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1733847742896882, "dur":6533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1733847742903527, "dur":9921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1733847742913654, "dur":6239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1733847742920003, "dur":6358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1733847742926448, "dur":22361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1733847742949068, "dur":119072, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1733847742815914, "dur":3707, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1733847742819633, "dur":6867, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1733847742833503, "dur":1868, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":6, "ts":1733847742835376, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1733847742835489, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1733847742835595, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1733847742835939, "dur":222, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\david\\Desktop\\Unity\\Flosa The Kinetic Crusader\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1733847742836163, "dur":270, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\david\\Desktop\\Unity\\Flosa The Kinetic Crusader\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1733847742836435, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\david\\Desktop\\Unity\\Flosa The Kinetic Crusader\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":6, "ts":1733847742836557, "dur":467, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\david\\Desktop\\Unity\\Flosa The Kinetic Crusader\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1733847742837035, "dur":882, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\david\\Desktop\\Unity\\Flosa The Kinetic Crusader\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1733847742837920, "dur":167, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\david\\Desktop\\Unity\\Flosa The Kinetic Crusader\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1733847742838089, "dur":377, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\david\\Desktop\\Unity\\Flosa The Kinetic Crusader\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1733847742838467, "dur":484, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\david\\Desktop\\Unity\\Flosa The Kinetic Crusader\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1733847742839030, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player7956b214-inputdata.json" }}
+,{ "pid":12345, "tid":6, "ts":1733847742835374, "dur":3941, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1733847742846463, "dur":213031, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1733847743066078, "dur":165, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1733847743066077, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1733847743066286, "dur":1791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1733847742816352, "dur":3385, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1733847742819750, "dur":1312, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1733847742821062, "dur":5488, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1733847742826561, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1733847742830879, "dur":4073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1733847742835020, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1733847742835533, "dur":4469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1733847742840077, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1733847742841517, "dur":14224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1733847742855962, "dur":6209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1733847742862271, "dur":12005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1733847742874423, "dur":8715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1733847742883201, "dur":5402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1733847742888788, "dur":10391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1733847742899272, "dur":6421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1733847742905777, "dur":10688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1733847742916562, "dur":5192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1733847742921813, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1733847742921811, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1733847742921933, "dur":51882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1733847742973869, "dur":94269, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1733847742816268, "dur":3446, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1733847742819724, "dur":1073, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1733847742820798, "dur":5712, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1733847742826530, "dur":149, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1733847742826519, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1733847742828790, "dur":12482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1733847742841384, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1733847742849241, "dur":12241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1733847742861560, "dur":10978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1733847742872640, "dur":7307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1733847742880006, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1733847742880082, "dur":5951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1733847742886111, "dur":10330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1733847742896574, "dur":6936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1733847742903581, "dur":10044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1733847742913736, "dur":6631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1733847742920484, "dur":6181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1733847742926748, "dur":19832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1733847742946895, "dur":9500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1733847742956468, "dur":111686, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1733847742816410, "dur":3351, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1733847742819772, "dur":1238, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1733847742821010, "dur":5563, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1733847742826584, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1733847742838019, "dur":2511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1733847742848286, "dur":12813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1733847742861191, "dur":9104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1733847742870380, "dur":7039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":9, "ts":1733847742877497, "dur":6936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1733847742884530, "dur":8123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1733847742901671, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1733847742892820, "dur":8940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1733847742901849, "dur":9776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1733847742911708, "dur":6830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1733847742918679, "dur":6406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1733847742925311, "dur":36157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1733847742961521, "dur":106630, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1733847742816708, "dur":3149, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1733847742819858, "dur":6741, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1733847742826611, "dur":236, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":10, "ts":1733847742826600, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1733847742838446, "dur":3454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1733847742855675, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1733847742848346, "dur":7405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1733847742855957, "dur":6052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1733847742862090, "dur":11491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1733847742873667, "dur":8455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1733847742882217, "dur":6501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1733847742888838, "dur":10977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1733847742899903, "dur":8148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1733847742908137, "dur":8586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1733847742916804, "dur":5747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1733847742922628, "dur":22837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":10, "ts":1733847742945585, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1733847742945669, "dur":15492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1733847742961241, "dur":106896, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1733847742816577, "dur":3248, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1733847742819826, "dur":6692, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1733847742826519, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1733847742828864, "dur":6446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1733847742835388, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":11, "ts":1733847742835386, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1733847742836149, "dur":3019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1733847742839226, "dur":121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1733847742839224, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1733847742840223, "dur":8724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1733847742849171, "dur":94, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1733847742850414, "dur":10513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1733847742861023, "dur":10060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1733847742871358, "dur":8174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":11, "ts":1733847742879605, "dur":5226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1733847742884915, "dur":9160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1733847742894258, "dur":8222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1733847742902562, "dur":10012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1733847742912672, "dur":6485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1733847742919238, "dur":6832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1733847742945151, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1733847742926162, "dur":19090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":11, "ts":1733847742945472, "dur":11093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1733847742956654, "dur":111468, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1733847742816780, "dur":3102, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1733847742819883, "dur":6634, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1733847742826520, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1733847742828705, "dur":6008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1733847742834768, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1733847742835433, "dur":3784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1733847742839309, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1733847742839307, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1733847742840299, "dur":20280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1733847742860832, "dur":8984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1733847742869915, "dur":6935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1733847742876913, "dur":7247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1733847742884241, "dur":8053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1733847742892396, "dur":8233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1733847742900722, "dur":8105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1733847742908907, "dur":8313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1733847742917353, "dur":5425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1733847742922834, "dur":4056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1733847742926985, "dur":16653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1733847742943931, "dur":12624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/david/Desktop/Cruisader/Flosa The Kinetic Crusader_Data/level1" }}
+,{ "pid":12345, "tid":12, "ts":1733847742956626, "dur":111499, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1733847743084090, "dur":1287, "ph":"X", "name": "ProfilerWriteOutput" }
+,
